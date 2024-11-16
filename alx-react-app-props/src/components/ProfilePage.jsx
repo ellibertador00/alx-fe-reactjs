@@ -1,6 +1,4 @@
-import UserInfo from "./UserInfo";
-import { MyContext } from "./UserContext";
-import { useContext } from "react";
+import UserInfo from "../UserInfo";
 
 function ProfilePage() {
   
