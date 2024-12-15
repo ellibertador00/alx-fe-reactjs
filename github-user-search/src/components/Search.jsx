@@ -41,7 +41,7 @@ const Search = () => {
       </form>
       {/* Conditional rendering */}
       {loading && <p>Loading...</p>}
-      {error && <p>Looks like we can't find the user.</p>} {/* Error message */}
+      {error && <p>Looks like we cant find the user.</p>} {/* Error message */}
       {userData && (
         <div>
           <h2>User Details</h2>
